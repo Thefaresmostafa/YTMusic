@@ -1,0 +1,120 @@
+"SETTINGS" = "Impostazioni";
+"ENABLED" = "Abilita YTMusicUltimate";
+"ENABLED_DESC" = "Funzionalità premium, no pubblicità, riproduzione in background, ecc.";
+"RESTART_FOOTER" = "Riavvia l'app per applicare le modifiche";
+
+"PREMIUM_SETTINGS" = "Opzioni Premium";
+"NO_ADS" = "No pubblicità";
+"NO_ADS_DESC" = "Rimuove le pubblicità nell'app";
+"BACKGROUND_PLAYBACK" = "Riproduzione in background";
+"BACKGROUND_PLAYBACK_DESC" = "Abilita la riproduzione in background";
+"FORCE_PREMIUM" = "Forza l'attivazione del premium";
+"FORCE_PREMIUM_DESC" = "Attiva forzatamente le funzioni premium.\nQuesta opzione disattiva il tab Samples";
+
+"PLAYER_SETTINGS" = "Opzioni del Player";
+"DOWNLOAD_AUDIO" = "Scarica audio";
+"DOWNLOAD_AUDIO_DESC" = "Aggiunge l'opzione per scaricare l'audio premendo il bottone YTMUltimate nel player";
+"DOWNLOAD_COVER" = "Scarica immagine di copertina";
+"DOWNLOAD_COVER_DESC" = "Aggiunge l'opzione per scaricare l'immagine di copertina premendo il bottone YTMUltimate nel player";
+"PLAYBACK_RATE_BUTTON" = "Mostra bottone velocità di riproduzione";
+"PLAYBACK_RATE_BUTTON_DESC" = "Modifica la velocità di riproduzione";
+"SELECTABLE_LYRICS" = "Seleziona testo delle canzoni";
+"SELECTABLE_LYRICS_DESC" = "Abilita la selezione del testo per i testi delle canzoni";
+"VOLBAR" = "Barra del volume";
+"VOLBAR_DESC" = "Aggiunge una barra del volume al player";
+"NO_AUTORADIO" = "Disattiva radio";
+"NO_AUTORADIO_DESC" = "Disattiva funzione musica infinita";
+"SKIP_CONTENT_WARNING" = "Salta content warning";
+"SKIP_CONTENT_WARNING_DESC" = "Salta il warning per contenuti potenzialmente pericolosi";
+"AV_DEFAULT_MODE" = "Modalità di riproduzione di default";
+"AUDIO" = "Audio";
+"VIDEO" = "Video";
+
+"SKIP_NONMUSIC_PARTS" = "SponsorBlock";
+"SKIP_NONMUSIC_PARTS_DESC" = "Salta segmenti non musicali nei video";
+"SB_BEHAVIOR" = "Comportamento";
+"SB_SKIP" = "Salta";
+"SB_ASK" = "Chiedi";
+"SB_NOTIF_DURATION" = "Durata notifica (sec)";
+
+"SEEK_BUTTONS" = "Cambia bottoni successivo/precedente con forward/backward"; 
+"SEEK_TIME_FOOTER" = "Seleziona un tempo in secondi\n\nDefault:\nIndietro = 10 sec.\nAvanti = 30 sec.\n\nPassa alla canzone successiva o precedente tenendo premuto i bottoni.";
+"DEFAULT" = "Default";
+
+"THEME_SETTINGS" = "Opzioni tema";
+"OLED_DARK_THEME" = "Tema scuro OLED";
+"OLED_DARK_THEME_DESC" = "Attiva il Tema scuro OLED";
+"OLED_DARK_KEYBOARD" = "Tastiera scura OLED";
+"OLED_DARK_KEYBOARD_DESC" = "Attiva la Tastiera scura OLED";
+"LOW_CONTRAST" = "Basso contrasto";
+"LOW_CONTRAST_DESC" = "Abbassa il contrasto per testo e bottoni";
+
+"NAVBAR_SETTINGS" = "Opzioni barra di navigazione";
+"DONT_STICK_HEADERS" = "Non appiccicare gli header";
+"DONT_STICK_HEADERS_DESC" = "Non appiccicare i pannelli fissati nella parte superiore dello schermo";
+"HIDE_HISTORY_BUTTON" = "Nascondi tasto cronologia";
+"HIDE_HISTORY_BUTTON_DESC" = "Nasconde il tasto cronologia nella barra di navigazione";
+"HIDE_CAST_BUTTON" = "Nascondi tasto cast";
+"HIDE_CAST_BUTTON_DESC" = "Nasconde il tasto cast nella barra di navigazione";
+"HIDE_FILTER_BUTTON" = "Rimuovi il tasto ordina/filtra";
+"HIDE_FILTER_BUTTON_DESC" = "Rimuove il tasto filtra Libreria/Download dalla barra di navigazione";
+
+"TABBAR_SETTINGS" = "Opzioni barra Tab";
+"STARTUP_TAB" = "Tab di avvio";
+"HOME" = "Home";
+"SAMPLES" = "Samples";
+"EXPLORE" = "Esplora";
+"LIBRARY" = "Libreria";
+"DOWNLOADS" = "Download";
+
+"TAB_SETTINGS" = "Impostazioni Tab";
+"REMOVE_TABBAR_LABELS" = "Nascondi etichette";
+"HIDE_HOME" = "Nascondi tab Home";
+"HIDE_SAMPLES" = "Nascondi tab Samples";
+"HIDE_EXPLORE" = "Nascondi tab Esplora";
+"HIDE_LIBRARY" = "Nascondi tab Libreria";
+"HIDE_DOWNLOADS" = "Nascondi tab Download";
+
+"CLEAR_CACHE" = "Cancella cache";
+
+"APPLY" = "Applica";
+"APPLY_DESC" = "Chiude l'app per applicare le modifiche";
+
+"LINKS" = "Link";
+"TWITTER" = "Segui %@ su Twitter";
+"TWITTER_DESC" = "Seguimi per aggiornamenti";
+"DISCORD" = "Entra nel Discord";
+"DISCORD_DESC" = "Segnala bug e richiedi funzionalità";
+"SOURCE_CODE" = "Codice sorgente";
+"SOURCE_CODE_DESC" = "Dai un'occhiata al codice";
+
+"CLOSE" = "Chiudi";
+"WARNING" = "Attenzione";
+"LOGIN_INFO" = "Riavvio dell'app richiesto dopo l'accesso all'account Google";
+"RETRY_LOGIN" = "Workaround attivato.\n\nRiprova.";
+"APPLY_MESSAGE" = "YouTube Music verrà chiuso per applicare le modifiche. Sei sicuro?";
+"CANCEL" = "Cancella";
+"YES" = "Sì";
+"REGIONAL_RESTRICTION" = "Sembra che YouTube Music sia limitato nel tuo Paese.\n\nUsa una VPN per avere accesso a YouTube Music.";
+
+"DONT_RUSH" = "Non correre splendore";
+"DONT_RUSH_DESC" = "È richiesto riprodurre la canzone per estrarre il link"; 
+"SELECT_ACTION" = "Seleziona azione";
+"DOWNLOAD_PREMIUM" = "Download (È richiesto il Premium)";
+"DOWNLOADING" = "Scaricando";
+"OOPS" = "Oops\nqualcosa è andato storto";
+"LINK_NOT_FOUND" = "Link non trovato";
+"SAVED_TO_PHOTOS" = "Salvato nelle foto";
+"DONE" = "Fatto";
+"FOUND_SEGMENT" = "Trovato segmento offtopic";
+"SEGMENT_SKIPPED" = "Offtopic skippato";
+"SKIP" = "Skip";
+"UNSKIP" = "Unskip";
+
+"EMPTY" = "I contenuti che scaricherai verranno mostrati qui";
+"REMOVE_ALL" = "Rimuovi tutti gli audio";
+"PREPARING" = "Preparando...";
+"DELETE_MESSAGE" = "Sei sicuro di voler cancellare %@?";
+"ALL_DOWNLOADS" = "scarica tutti gli audio"; //keep it lowercase
+"DELETE" = "Cancella";
+"RENAME" = "Rinomina";
